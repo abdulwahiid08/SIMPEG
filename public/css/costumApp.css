@@ -1,0 +1,49 @@
+.font-icon {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: black;
+    font-size: 16px;
+
+}
+.icon-pass {
+    /* position: relative; */
+    margin-top: -29px;
+    margin-right: 9px;
+}
+
+.open-eye {
+    visibility: hidden;
+}
+.font-pegawai {
+    color: black;
+}
+.p-syarat p {
+    margin-bottom: -2px;
+}
+.link-file a {
+    text-decoration: none;
+    font-weight: 600;
+}
+
+/* Profil Imgae */
+.upload-image {
+    width: 300px;
+}
+/* .content-image{
+    position: relative;
+    overflow: hidden;
+}
+.input-file-image {
+    bottom: 0;
+    position: absolute;
+    color: transparent;
+    box-sizing: border-box;
+    padding: 100px 67px;
+    transition: 0.5s;
+    background: rgba(0, 0, 0, 0.4);
+    opacity: 0;
+    outline: none;
+}
+.input-file-image:hover {
+    opacity: 1;
+} */

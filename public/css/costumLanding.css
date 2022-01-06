@@ -1,0 +1,49 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0 40px;
+}
+.logo p {
+    color: #333333c7;
+}
+.content {
+    margin-top: 130px;
+}
+.content img {
+    margin-top: -160px;
+    margin-left: 70px;
+    width: 580px;
+}
+.font-landing .font-up{
+    font-size: 60px;
+    font-weight: bold;
+}
+.font-landing .font-down {
+    font-size: 57px;
+    font-weight: bold;
+    color: #6765d6;
+}
+.btn{
+    background: #6765d6;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+}
+.btn:hover{
+    background: #3e468d;
+    color: white;
+}
+/* .btn::after {
+    height: 100%;
+    left: -35%;
+    top: 0;
+    transform: skew(50deg);
+    transition-duration: 0.6s;
+    transform-origin: top left;
+    width: 0;
+}
+.btn:hover:after {
+    background: #3e468d;
+    color: white;
+    height: 100%;
+    width: 135%;
+} */

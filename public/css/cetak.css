@@ -1,0 +1,25 @@
+body {
+    background: white;
+    color: black;
+    font-family: sans-serif;
+}
+hr {
+    color: black;
+    border: 2px;
+    margin-bottom: 35px;
+}
+.header-table {
+    background: rgb(206, 206, 206);
+}
+th {
+    font-size: 13px;
+}
+td {
+    font-size: 12px;
+}
+p {
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 12px;
+    font-weight: 400;
+}
